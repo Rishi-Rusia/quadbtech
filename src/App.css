@@ -1,0 +1,36 @@
+.content-section {
+  margin-top: 100px;
+  font-family: "Caveat Brush", cursive;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+}
+
+/* SUMMARY PAGE CSS */
+
+.summary-container {
+  background-color: #61876e;
+  padding: 1%;
+  width: 70%;
+  margin-top: 17%;
+  border-radius: 10px;
+  display: flex;
+  margin: 15px;
+  overflow-wrap: normal;
+}
+
+.summary-image {
+  width: 200px;
+  border: 0.5px solid white;
+  border-radius: 10px;
+}
+
+.summary-text {
+  margin-left: 20px;
+  color: white;
+}
